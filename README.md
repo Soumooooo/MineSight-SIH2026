@@ -659,24 +659,22 @@ To maintain engineering integrity, project components are categorized according 
 
 ---
 
-## 29. Team
+## 29. Team Members:
 
-* **Event:** Smart India Hackathon 2026
-* **Team Name:** **Lost in transmission**
-* **Team ID:** **176278**
-* **Problem Statement:** 26007
+> "Team Members"
 
----
+| S.No. | Name | Role | Linkedin |
+| --------------- | --------------- | --------------- | --------------- |
+| 1. | Adrija Ghosh (Team Leader) | Hardware| [@adrijaghosh](https://www.linkedin.com/in/adrija-ghosh-21784438a/)  |
+| 2. | Soumodeep Barman | Hardware, Software | [@soumodeepbarman](https://www.linkedin.com/in/soumodeepbarman/) |
+| 3. | Soham Pandit | Hardware | [@sohampandit](https://www.linkedin.com/in/soham-pandit-ece/) |
+| 4. | Debopriya Saha | Machine Learning| [@debopriyasaha](https://www.linkedin.com/in/debopriya-saha-2a065a364/)  |
+| 5. | Silpa Das | Machine Learning | [@silpadas](https://www.linkedin.com/in/silpa-das-90a11538b/)  |
+| 6. | Khushi Biswas | Machine Learning | [@khushibiswas](https://www.linkedin.com/in/khushi-biswas-79690b3b2/)  |
 
-## 30. Future Scope
-
-1. **Full-Scale Autonomous Hauler Interface:** Interfacing the deterministic safety engine directly with autonomous haulage systems (AHS) via CAN bus (J1939).
-2. **Multi-Radar Surround Configuration:** Expanding from frontal and side sensing to a continuous 360° radar envelope around heavy 240-ton dump trucks.
-3. **Pit-Wide Global Risk Modeling:** Central server aggregation of peer-reported road anomalies to dynamically update digital mine elevation maps.
-4. **Enhanced Hardware Hardening:** IP67-rated waterproof, shock-isolated cast aluminum enclosures suited for high vibration and continuous iron ore slurry exposure.
 
 ---
 
-## 31. License
+## 30. License
 
 This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for terms and conditions.
